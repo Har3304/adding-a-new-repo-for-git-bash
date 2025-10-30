@@ -1,3 +1,4 @@
 temp text
 possible conflict
 this may work
+new
